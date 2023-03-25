@@ -1,4 +1,3 @@
-# pizzacart_reactredux
-
+# PIZZA ORDERING CART USING REACT & REDUX (ASSIGNMENT)
 # view live site.
-https://pizzaorderingcart.netlify.app/
+🚀🚀🚀 (https://pizzaorderingcart.netlify.app/)
