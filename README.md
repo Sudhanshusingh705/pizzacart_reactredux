@@ -1,4 +1,4 @@
 # pizzacart_reactredux
 
-#view live site.
+# view live site.
 https://pizzaorderingcart.netlify.app/
